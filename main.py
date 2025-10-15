@@ -9,3 +9,4 @@ if __name__ == "__main__":
     bst.insert(5)
     print(bst.search(4)) # returns False
     print(bst.search(7))  # returns True
+    
